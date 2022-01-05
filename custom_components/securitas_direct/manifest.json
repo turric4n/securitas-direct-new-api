@@ -1,6 +1,7 @@
 {
     "domain": "securitas_direct",
     "name": "Securitas Direct",
+    "version": "1.0",
     "documentation": "https://github.com/guerrerotook/securitas-direct-new-api",
     "issue_tracker": "https://github.com/guerrerotook/securitas-direct-new-api/issues",
     "requirements": [],
